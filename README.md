@@ -4,7 +4,7 @@ This is the repository for generation Q&A data for Chess Games. You need to inst
 
 To see command line options:
 
-  python generate_qa.py --help
+    python generate_qa.py --help
   
   
   
